@@ -32,7 +32,7 @@ jobs:
       
       - uses: actions/upload-artifact@main
         with:
-          name: remark-lint-report
+          name: remark_lint_report
           path: public/
 
 
